@@ -1,5 +1,5 @@
 ## 👀 Profile Visitors
-[![Visitor Count](https://visitcount.itsvg.in/api?id=rishul02&label=Profile%20Views&color=0&icon=5)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=rishul02&label=Profile%20Views&color=0e75b6&style=flat)
 
 
 # 💫 About Me:

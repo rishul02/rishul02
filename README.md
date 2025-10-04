@@ -2,8 +2,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=rishul02&label=Profile%20Views&color=0e75b6&style=flat)
 
 
-# 💫 About Me:
-🔭 I’m currently working on ReactJS and NodeJS projects.<br>👯 I’m looking to collaborate on AI-ML projects<br>🌱 I’m currently learning DSA<br>📫 How to reach me: rishul02.work@gmail.com
+# About Me:
+🔭 I’m currently working as an AI-ML Research Intern projects.<br>👯 I’m looking to collaborate on AI-ML projects<br>📫 How to reach me: rishul02.work@gmail.com
 
 
 ## 🌐 Socials:
@@ -14,10 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rishul02&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rishul02&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishul02&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rishul02&limit=5&theme=dark&combine_all_yearly_contributions=true)

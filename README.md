@@ -3,7 +3,7 @@
 
 
 # About Me:
-🔭 I’m currently working as an AI-ML Research Intern projects.<br>👯 I’m looking to collaborate on AI-ML projects<br>📫 How to reach me: rishul02.work@gmail.com
+🔭 I’m currently working as an AI-ML Research Intern .<br>👯 I’m looking to collaborate on AI-ML projects<br>📫 How to reach me: rishul02.work@gmail.com
 
 
 ## 🌐 Socials:
